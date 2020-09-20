@@ -32,7 +32,6 @@ while next==True:
 
 
 
-
   print("\n\nYour Horoscope for Today is:")
   #Getting Horoscope Based on Zodiac Sign------------------------------
   if s==1:
@@ -63,6 +62,7 @@ while next==True:
     print("\nHey! You sure about the number?")
   print("Have A Great Day!! :) ")
 
+  
  #One-Liner For if-else Loop--------------------------------------------
   next = True if input("\n\n Would You  Like To Find Out Another Horoscope? (Y/N) \n")=="Y" else False
   print("Thanks For Finding Your Horoscope With Us!")
